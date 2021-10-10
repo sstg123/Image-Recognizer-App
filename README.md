@@ -1,1 +1,1 @@
-# Image-Recognizer-App
+Image Recognizer App
